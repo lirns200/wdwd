@@ -1,0 +1,7 @@
+{
+  "name": "HighJump Challenge",
+  "description": "Социально-спортивное приложение для фиксации высоты прыжка с датчиками телефона, рейтингом и шерингом рекордов",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

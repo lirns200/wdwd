@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HighJump Challenge</string>
+    <string name="login_title">Вход в HighJump</string>
+    <string name="register_title">Регистрация</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Пароль</string>
+    <string name="nickname_label">Никнейм</string>
+    <string name="age_label">Возраст</string>
+    <string name="login_button">Войти</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+    <string name="jump_button">ПРЫГНУТЬ</string>
+    <string name="leaderboard_title">Рейтинг чемпионов</string>
+    <string name="show_more">Показать еще</string>
+    <string name="jump_prep_instruction">Держите телефон плотно в руке во время прыжка!</string>
+    <string name="jump_result_title">Результат прыжка</string>
+    <string name="publish_to_leaderboard">Опубликовать результат в общий рейтинг</string>
+    <string name="share_likee">Likee</string>
+    <string name="share_vk">ВКонтакте / Мой Мир</string>
+    <string name="share_other">Поделиться видео</string>
+</resources>
